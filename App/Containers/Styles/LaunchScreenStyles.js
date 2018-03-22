@@ -8,7 +8,7 @@ export default StyleSheet.create({
     flex: 2,
     borderRadius: 4,
     borderWidth: 0.5,
-    borderColor: 'black',
+    borderColor: 'black'
   },
   logo: {
     marginTop: Metrics.doubleSection,
